@@ -1,11 +1,11 @@
 # Item-Lister
 
-#Language used
+## Language used
 * html
 * Bootstrap
 * Javascript
 
-# Functionality
+## Functionality
 * Add Item
 * Delete Item
 * Search Item
