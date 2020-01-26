@@ -10,4 +10,6 @@
 * Delete Item
 * Search Item
 
+```
 ![GIF](https://raw.githubusercontent.com/Mayur290/Item-Lister/master/media/preview.gif)
+```
